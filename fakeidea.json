@@ -1,0 +1,105 @@
+{
+    "organisation": "Fast Bowling- ABCD Workshop",
+    "athletes": [
+      {
+        "team_id": "001",
+        "team_name": "Alpha12",
+        "team_idea": "Renewable energy",
+        "idea_description": "Intelligent assistants don't need to be told anything. They observe your actions on a daily basis and then start delivering by assisting or completely managing the responsibilities on their own. The idea of an intelligent assistant was conceptualized by JARVIS in Iron Man. It",
+        "member_count": 5,
+        "upvote": 11,
+        "categories": "095",
+        "team_image": "https://media.istockphoto.com/photos/professional-male-agronomist-examine-the-wheat-field-using-a-tablet-picture-id1414745946?b=1&k=20&m=1414745946&s=170667a&w=0&h=PZAXI6O4XVSQLtwgQjBscn1cH_r31XzEBBjePcJNm44="
+      },
+      {
+        "team_id": "002",
+        "team_name": "Omaga34",
+        "team_idea": " Artificial Intelligence: Robotic Process Automation",
+        "idea_description": "This is a project idea where AI-based solutions are provided for robots making them self-reliant and more independent. These robots have",
+        "member_count": 3,
+        "upvote": 21,
+        "categories": "125",
+        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGljJTIwb2YlMjBtZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "003",
+        "team_name": "Qurtjk34",
+        "team_idea": "Natural Language Processing: A Speaking Toy that Responds to Your Questions",
+        "idea_description": "This is a project idea where AI-based solutions are provided for robots making them self-reliant and more independent. These robots have",
+        "member_count": 4,
+        "upvote": 18,
+        "categories": "678",
+        "image": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGljJTIwb2YlMjBtZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "004",
+        "team_name": "Kai390",
+        "team_idea": "Mobile App: Weather API",
+        "idea_description": "It delivers instant weather reports on the go, that too in real-time. If it is going to rain within an hour, then you will be notified in real-time. This is one of the most popular ideas for a project in a hackathon",
+        "member_count": 3,
+        "upvote": 22,
+        "categories": "234",
+        "image": "https://media.istockphoto.com/photos/portrait-of-casual-smiling-man-picture-id1138562953?b=1&k=20&m=1138562953&s=170667a&w=0&h=FkuZQk-8sWvMzjcwtglYXIlEIelPKKXnQl1FbXWedmQ="
+      },
+      {
+        "id": "005",
+        "team_name": "LightDenku55",
+        "team_idea": "Deep Learning: Augmented Reality",
+        "idea_description": "It is a part of a big project. Normally, deep learning is used in image recognition. But, when it is used in AR, then the possibilities are endless. You can build realistic 3D simulation systems for anything. Hackathons are very helpful to build new ideas.",
+        "member_count": 2,
+        "upvote": 14,
+        "categories": "892",
+        "image": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "006",
+        "team_name": "YamiAstha87",
+        "team_idea": "Marketplace and Community Hub",
+        "idea_description": "Shopping is increasingly becoming digital these days. Nowadays, various e-commerce websites are merging with social community hubs online to expand their reach. Hackathons are helpful to make new products for better user experiences with online shopping websites.",
+        "member_count": 4,
+        "upvote": 19,
+        "categories": "346",
+        "image": "https://images.unsplash.com/photo-1440606797942-6cc04c045447?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "007",
+        "team_name": "Unou7",
+        "team_idea": "Arctic Communities' Connectivity",
+        "idea_description": "Various communities near the poles of the Earth don't find proper connectivity with the rest of the world. So, hackathons focusing on this area of web development help to come up with new and advanced tools for communication.",
+        "member_count": 5,
+        "upvote": 34,
+        "categories": "789",
+        "image": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "008",
+        "team_name": "Nobita34",
+        "team_idea": "Art Community",
+        "idea_description": "This community is increasing at a rapid pace. But, it is one of the few industries that is facing a lot of problems with the digitalization of conventional art. Thanks to hackathons, new products are being developed for artists, so that th",
+        "member_count": 2,
+        "upvote": 24,
+        "categories": "236",
+        "image": "https://images.unsplash.com/photo-1535745318714-da922ca9cc81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "009",
+        "team_name": "AnotherWordki-4",
+        "team_idea": "Software Development Courses",
+        "idea_description": "One of the lagging things in today's time is that there are not many reputable software development courses that can reach an international standard",
+        "member_count": 4,
+        "upvote": 54,
+        "categories": "237",
+        "image": "https://images.unsplash.com/photo-1517840933437-c41356892b35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": "010",
+        "team_name": "Isekai789",
+        "team_idea": "Academic Life Tools",
+        "idea_description": "Nowadays, online surveillance systems are being incorporated by schools and other academic institutions for better management of education and other academic needs. The prototypes for such systems are being developed at several hackathons.",
+        "member_count": 3,
+        "upvote": 10,
+        "categories": "012",
+        "image": "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      }
+    ]
+  }
