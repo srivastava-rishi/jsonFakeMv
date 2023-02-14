@@ -8,6 +8,7 @@
         "member_count": 5,
         "upvote": 11,
         "categories": "095",
+          "shortlist":0,
         "team_image": "https://media.istockphoto.com/photos/professional-male-agronomist-examine-the-wheat-field-using-a-tablet-picture-id1414745946?b=1&k=20&m=1414745946&s=170667a&w=0&h=PZAXI6O4XVSQLtwgQjBscn1cH_r31XzEBBjePcJNm44="
       },
       {
@@ -18,7 +19,8 @@
         "member_count": 3,
         "upvote": 21,
         "categories": "125",
-        "image": "https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
+          "shortlist":1,
+          "image": "https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
       },
       {
         "id": "003",
@@ -28,7 +30,8 @@
         "member_count": 4,
         "upvote": 18,
         "categories": "678",
-        "image": "https://images.unsplash.com/photo-1670272506220-f8332b178148?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MzV8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
+          "shortlist":0,
+          "image": "https://images.unsplash.com/photo-1670272506220-f8332b178148?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MzV8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
       },
       {
         "id": "004",
@@ -38,6 +41,7 @@
         "member_count": 3,
         "upvote": 22,
         "categories": "234",
+        "shortlist":0,
         "image": "https://images.unsplash.com/photo-1552581234-26160f608093?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
       },
       {
@@ -48,6 +52,7 @@
         "member_count": 2,
         "upvote": 14,
         "categories": "892",
+        "shortlist":0,
         "image": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
       },
       {
@@ -58,6 +63,7 @@
         "member_count": 4,
         "upvote": 19,
         "categories": "346",
+         "shortlist":0,
         "image": "https://images.unsplash.com/photo-1461709444300-a6217cec3dff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTc0fHx0ZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
       },
       {
@@ -68,6 +74,7 @@
         "member_count": 5,
         "upvote": 34,
         "categories": "789",
+        "shortlist":0,
         "image": "https://images.unsplash.com/photo-1521898284481-a5ec348cb555?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjE5fHx0ZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
       },
       {
@@ -78,6 +85,7 @@
         "member_count": 2,
         "upvote": 24,
         "categories": "236",
+        "shortlist":0,
         "image": "https://images.unsplash.com/photo-1529929344488-5e812ddb6e2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjk0fHx0ZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
       },
       {
@@ -88,6 +96,7 @@
         "member_count": 4,
         "upvote": 54,
         "categories": "237",
+        "shortlist":1,      
         "image": "https://images.unsplash.com/photo-1631490238101-1723c8d3f035?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzEyfHx0ZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
       },
       {
@@ -98,6 +107,7 @@
         "member_count": 3,
         "upvote": 10,
         "categories": "012",
+         "shortlist":1,  
         "image": "https://images.unsplash.com/photo-1630885410673-7e2633aaa42b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzMzfHx0ZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60"
       }
     ]
